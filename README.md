@@ -30,3 +30,11 @@ Software developer since 2020. Supporter of open-source ideology. Interested in 
 </div>
 
 ---
+
+### Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-MaxMiheev@proton.me-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:MaxMiheev@proton.me)
+
+</div>
